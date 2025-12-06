@@ -62,3 +62,4 @@ This project is not affiliated with, endorsed by, or associated with Mojang, Mic
 ---
 
 Pull requests and issues welcome!
+---
